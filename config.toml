@@ -1,4 +1,4 @@
-baseURL = "http://kayanhales.netlify.com"
+baseURL = "https://kayanhales.netlify.com"
 languageCode = "en-us"
 title = "KAYANHALES"
 theme = "kross-hugo-portfolio-template"
