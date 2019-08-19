@@ -1,0 +1,169 @@
+# banner
+banner:
+  title : "Hi! I’m <br> Kayan Hales <br> a Web Management Freelancer and Instructor"
+  socialLinks:
+    - icon : "ti-facebook"
+      URL : "http://facebook.com/kayanhales"
+
+    - icon : "ti-instagram"
+      URL : "http://instagram.com/user/kayanhales"
+
+    - icon : "ti-linked-in"
+      URL : "#"
+
+    - icon : "ti-twitter"
+      URL : "http://twitter.com/thekaycilla"
+
+# about
+about:
+  enable : true
+  content : "I am a Web Design & Web Management Freelancer from Jamaica, based in Detroit, MI.
+  I also teach basic web development and coding (Java, javascripts, HTML and CSS) to beginners."
+  button:
+    btnText : "know more"
+    URL : "/about"
+
+# skill
+skill:
+  enable : true
+  skillbar:
+    - title : "Web Design"
+      progress : "100%"
+      color : "#fdb157"
+
+    - title : "Graphic Design"
+      progress : "90%"
+      color : "#9473e6"
+
+    - title : "Web Management through CMS such as Wordpress, Drupal, Joomla etc"
+      progress : "100%"
+      color : "#bdecf6"
+
+    - title : "Coding (Java, Javascript, HTML, CSS)"
+      progress : "80%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  item:
+    - logo : "images/experience/icon-1.png"
+      title : "Web Dev Intern"
+      company : "International Medical Corps"
+      duration : "June 2012 - Aug 2012"
+
+    - logo : "images/experience/icon-2.png"
+      title : "Web Dev Intern"
+      company : "First Ladies Office"
+      duration : "June 2013 - Aug 2013"
+
+    - logo : "images/experience/icon-1.png"
+      title : "I.T. Consultant"
+      company : "Dynatrace"
+      duration : "June 2014 - Present"
+
+# education
+education:
+  enable : true
+  item:
+    - title : "AWS Cloud Practitoner"
+      year : "2019"
+      academy : "Amazon Web Services"
+
+    - title : "Program Management Graduate Certificate"
+      year : "Current"
+      academy : "Lawrence Technological University"
+
+    - title : "Bachelor of Arts in Computer Science"
+      year : "2014"
+      academy : "Kalamazoo College"
+
+# service
+service:
+  enable : true
+  item :
+    - title : "Web Design"
+      icon : "ti-panel"
+      content : "I can design beautiful, responsive, simplistic and minimalistic stand-alone HTTP templates. If you are using a CMS such as Wordpress
+      Joomla, DotNetNuke, Drupal, I can configure your pre-bought/free templates for you as well to suit your needs. Cost ranges between $80-$150. I can also teach
+      basic Web Design and Development principles to an audience of your choice."
+      highlighted : false
+
+    - title : "Website Management"
+      icon : "ti-vector"
+      content : "I am able to handle the management and maintenance of your existing site - whether you need to add an 'events' page,
+      form submissions, blogs etc. All you need to provide is the content. Cost ranges between $20-$150 depending on what you need to get done."
+      highlighted : true
+
+    - title : "Graphic Design"
+      icon : "ti-palette"
+      content : "I can create beautiful flyers, templates, cards, brochures, digital designs etc. All you need to provide
+      is the content. Cost ranges between $30-$100. Discounts available for non-profit organizations."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  item:
+    - image : "images/portfolio/item-1.png"
+      projectURL : "#"
+
+    - image : "images/portfolio/item-2.png"
+      projectURL : "#"
+
+    - image : "images/portfolio/item-3.png"
+      projectURL : "#"
+
+    - image : "images/portfolio/item-4.png"
+      projectURL : "#"
+
+    - image : "images/portfolio/item-5.png"
+      projectURL : "#"
+
+# testimonial
+testimonial:
+  enable : true
+  item:
+    - name : "Olivier Kouadio"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Founder of KOAS Consulting"
+      content : "Kayan was a pleasure to work with. Friendly and quick to make changes as needed to suit our expectations!"
+
+
+# client slider
+# clientSlider:
+#   enable : true
+#   item:
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-1.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-2.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-3.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-4.png"
+#       URL : "#"
+#
+#     - logo : "images/clients-logo/client-logo-5.png"
+#       URL : "#"
+
+# blog
+blog:
+  enable : true
