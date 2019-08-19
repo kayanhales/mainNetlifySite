@@ -165,5 +165,5 @@ testimonial:
 #       URL : "#"
 
 # blog
-blog:
-  enable : true
+# blog:
+#   enable : true
