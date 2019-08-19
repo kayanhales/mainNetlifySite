@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "http://kayanhales.netlify.com"
 languageCode = "en-us"
 title = "KAYANHALES"
 theme = "kross-hugo-portfolio-template"
